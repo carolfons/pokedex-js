@@ -5,5 +5,5 @@ return data;
 }
 
 const renderPokemon = (pokemon) =>{
-    
+    const data = fetchPokemon(pokemon)
 }
